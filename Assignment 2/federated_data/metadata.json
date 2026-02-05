@@ -1,0 +1,32 @@
+{
+    "num_clients": 5,
+    "total_samples": 500,
+    "num_features": 18,
+    "feature_names": [
+        "student_id",
+        "gender",
+        "age",
+        "previous_grade",
+        "study_hours",
+        "attendance",
+        "participation",
+        "assignment_scores",
+        "quiz_scores",
+        "internal_marks",
+        "sleep_hours",
+        "exercise_hours",
+        "parental_education",
+        "family_support",
+        "internet_access",
+        "extracurricular",
+        "part_time_job",
+        "final_score"
+    ],
+    "client_samples": {
+        "client_1": 100,
+        "client_2": 100,
+        "client_3": 100,
+        "client_4": 100,
+        "client_5": 100
+    }
+}
